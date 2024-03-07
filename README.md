@@ -17,16 +17,7 @@
 <br>
 
 ## DESKRIPSI
-Perangkat ini menghasilkan output LED yang dapat di on/off melalui WEBSERVER menggunakan NodeMCU dengan mode WIFI_STA. Terdapat 2 LED yaitu LED1 berwarna biru dan LED2 berwarna merah. Jika LED1 menyala maka LED2 akan mati dan jika LED2 menyala LED1 akan mati.
-
-
-## KETENTUAN RANGKAIAN
-  
-1. Terdapat 2 Buah LED
-2. Jika LED1 menyala LED2 mati, jika LED2 menyala LED1 mati
-3. Board terdapat 2 LED
-4. WEBSERVER diperlukan untuk monitor dan kontrol value Komponen
-5. NodeMCU harus connect ke Wi-Fi (bebas memilih mode WIFI_AP atau WIFI_STA)
+Rangkaian ini menghasilkan output LED yang dapat di nyalakan melalui WEBSERVER menggunakan NodeMCU dengan mode WIFI_STA. Terdapat 2 LED yaitu LED1 berwarna biru dan LED2 berwarna merah. Jika LED1 menyala maka LED2 akan mati dan jika LED2 menyala LED1 akan mati.
 
 
 ## PEMBAGIAN TUGAS
