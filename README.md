@@ -47,17 +47,23 @@ Perangkat ini menghasilkan output LED yang dapat di on/off melalui WEBSERVER men
 ## RANGKAIAN
 
 - DESIGN SCHEMATIC
-<!---
-<img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/">
-  --->
+<div align="center">
+  
+<img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/blob/main/lampiran/design_schematic.png">
+
+</div>
 
 <br>
   
 - OUR SCHEMATIC
-<!---
-<img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/">
-  --->
+<div align="center">
+  
+<img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/blob/main/lampiran/schematic.png">
 
+</div>
+
+<br>
+  
 <div align="center">
 
   [Back To Top](top)
