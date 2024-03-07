@@ -3,7 +3,7 @@
 <div align="center">  
 
 # POSTTEST1-PRAKTIKUM-IOT-UNMUL-2024
-<!---
+
 ### KELOMPOK 3
 
 | NIM | NAMA |
@@ -33,7 +33,7 @@ Perangkat ini menghasilkan output LED yang dapat di on/off melalui WEBSERVER men
 
 040_Natalie Fuad       = Menngatur konfigurasi WEBSERVER
 <br>
-050_Sherina Laraswati  = Membuat rangkaian LED serta mengatur konfigurasi logika LED
+050_Sherina Laraswati  = Membuat rangkaian LED serta mengatur konfigurasi LED
 
 
 ## KOMPONEN YANG DIGUNAKAN
@@ -50,7 +50,7 @@ Perangkat ini menghasilkan output LED yang dapat di on/off melalui WEBSERVER men
 <!---
 <img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/">
   --->
-<!---
+
 <br>
   
 - OUR SCHEMATIC
@@ -58,12 +58,9 @@ Perangkat ini menghasilkan output LED yang dapat di on/off melalui WEBSERVER men
 <img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/">
   --->
 
-<!---
 <div align="center">
 
   [Back To Top](top)
 
 </div>
 
-
---->
